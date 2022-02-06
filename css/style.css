@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Rowdies:wght@700&display=swap");
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+header {
+	font-family: roboto;
+	font-size: 30px;
+	font-weight: bold;
+}
+body {
+	font-family: Lato;
+	margin: 30px 765px 30px 345px;
+	width: 810px;
+	font-style: normal;
+}
+.content-title {
+	font-style: normal;
+	color: #1e212c;
+	margin-top: 30px;
+}
+.title1 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+}
+.imeg-title {
+	margin: 92px 0 60px 0;
+}
+.paragraf-title {
+	margin-bottom: 25px;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+}
+
+.content-text {
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 50px;
+}
+.paragraf1-text {
+	padding-bottom: 25px;
+}
+
+.content-parahraf {
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	margin-bottom: 50px;
+}
+.parahraf-content {
+	padding-left: 30px;
+}
+
+.content-list {
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.parahraf1-list {
+	padding-bottom: 25px;
+}
+.list li {
+	padding-left: 30px;
+}
+.parahraf2-list {
+	margin: 30px 0;
+}
+
+footer {
+	font-family: lobster;
+	font-size: 30px;
+	font-weight: bold;
+}
